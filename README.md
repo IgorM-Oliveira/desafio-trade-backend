@@ -22,8 +22,7 @@ Autenticação com **Laravel Sanctum**, **Docker/Sail**, testes (unit/feature) e
 ## Pré-requisitos
 - Docker + Docker Compose
 - Composer
-- (Opcional) Postman / Insomnia
-- (Opcional) Node.js LTS (se for levantar um frontend separado)
+- Postman
 
 ---
 
